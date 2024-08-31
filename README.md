@@ -1,5 +1,5 @@
 # Atoshi Ban Manager
-
+https://discord.gg/fivedev
 ## Utilisation :
 
 exports['banManager']:banPlayer(playerId, duration, durationUnit, reason, author, source)
