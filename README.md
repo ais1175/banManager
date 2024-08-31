@@ -19,3 +19,11 @@ exports['banManager']:checkBan(id, function(isBanned)
         print('Le joueur n\'est pas banni.')
     end
 end)
+
+## Commandes
+D = Jour
+H = Heure
+- /ban 'ID' 'Temps' 'D or H' 'Raison'
+- /Unban 'Ban ID'
+
+Les commandes sont utilisables coté client et serveur.
