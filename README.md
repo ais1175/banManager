@@ -1,7 +1,6 @@
 # Atoshi Ban Manager
 
-Utilisation 
-:
+Utilisation :
 exports['banManager']:banPlayer(playerId, duration, durationUnit, reason, author, source)
 
 exports['banManager']:unbanPlayer(id, function(isUnbanned)
