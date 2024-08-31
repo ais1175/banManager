@@ -24,6 +24,6 @@ end)
 D = Jour
 H = Heure
 - /ban 'ID' 'Temps' 'D or H' 'Raison'
-- /Unban 'Ban ID'
+- /unban 'Ban ID'
 
 Les commandes sont utilisables coté client et serveur.
